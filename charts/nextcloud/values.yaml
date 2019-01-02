@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: llamallama/nextcloud
-  tag: latest
+  tag: 15.0.0-apache
   pullPolicy: IfNotPresent
 
 nameOverride: ""
