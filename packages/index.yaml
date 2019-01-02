@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   nextcloud:
   - apiVersion: v1
+    appVersion: 15.0.0
+    created: 2019-01-02T12:52:20.918576643-05:00
+    description: A Nextcloud chart for Kubernetes
+    digest: 7af649b13abfde5d41a50518e58e834e65bd85fcaacd989af1fe1208b75eb4c8
+    home: https://nextcloud.com
+    name: nextcloud
+    urls:
+    - https://llamallama.github.io/helm-charts/packages/nextcloud-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-12-20T15:55:29.599771939-05:00
+    created: 2019-01-02T12:52:20.918342987-05:00
     description: A Nextcloud chart for Kubernetes
     digest: adfa5b1ef24e7272442f731f2471fac57d9dc4d3064a575c2507f183c61142a3
     home: https://nextcloud.com
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://llamallama.github.io/helm-charts/packages/nextcloud-0.1.0.tgz
     version: 0.1.0
-generated: 2018-12-20T15:55:29.598985538-05:00
+generated: 2019-01-02T12:52:20.917787249-05:00
